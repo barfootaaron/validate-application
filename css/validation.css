@@ -1,0 +1,11 @@
+.validate > input:null {
+	background: white;
+}
+
+.validate > input:valid {
+	background: green;
+}
+
+.validate > input:invalid {
+	background: red;
+}
