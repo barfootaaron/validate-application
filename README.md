@@ -1,2 +1,0 @@
-# validate-application
-# interactive-navigation
